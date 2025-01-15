@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_SITE_NAME": "BookstoreInventory",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "AzureWebJobsSecretStorageType": "files",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "ScmType": "None",
+    "WEBSITE_SLOT_NAME": "Production",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=310909ad-438a-4c2c-bd16-7627c847e39c;IngestionEndpoint=https://southeastasia-1.in.applicationinsights.azure.com/;LiveEndpoint=https://southeastasia.livediagnostics.monitor.azure.com/;ApplicationId=b5f588ce-1f75-4593-95bb-386f509dfd7e",
+    "WEBSITE_USE_PLACEHOLDER_DOTNETISOLATED": "1",
+    "WEBSITE_RUN_FROM_PACKAGE": "1"
+  }
+}

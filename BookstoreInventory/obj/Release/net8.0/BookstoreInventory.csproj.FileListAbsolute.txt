@@ -1,0 +1,5 @@
+C:\Users\swvedhamuthup.ext\Downloads\BookstoreInventory\obj\Release\net8.0\BookstoreInventory.csproj.AssemblyReference.cache
+C:\Users\swvedhamuthup.ext\Downloads\BookstoreInventory\obj\Release\net8.0\BookstoreInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swvedhamuthup.ext\Downloads\BookstoreInventory\obj\Release\net8.0\BookstoreInventory.AssemblyInfoInputs.cache
+C:\Users\swvedhamuthup.ext\Downloads\BookstoreInventory\obj\Release\net8.0\BookstoreInventory.AssemblyInfo.cs
+C:\Users\swvedhamuthup.ext\Downloads\BookstoreInventory\obj\Release\net8.0\BookstoreInventory.csproj.CoreCompileInputs.cache

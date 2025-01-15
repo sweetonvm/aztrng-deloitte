@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "aztrng1312": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7298",
+      "launchBrowser": false
+    }
+  }
+}
